@@ -1,5 +1,5 @@
 # 💫 About Me:
-HELLO WORLD. I'm a passionate software engineer with a love for building scalable and efficient applications.
+I'm a passionate software engineer with a love for building scalable and efficient applications.
 
 
 ## 🌐 Socials:
